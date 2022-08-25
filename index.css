@@ -1,0 +1,12 @@
+.bubble-area{
+    position: relative;
+}
+
+.bubble {
+    border-radius: 50%;
+    position: absolute;
+}
+
+.bubble_active {
+    border: 4px solid gold;
+}
